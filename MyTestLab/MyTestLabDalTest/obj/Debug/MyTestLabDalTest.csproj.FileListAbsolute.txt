@@ -1,0 +1,12 @@
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\MyTestLabDalTest.dll
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\MyTestLabDalTest.pdb
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\Iesi.Collections.dll
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\NHibernate.dll
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\Iesi.Collections.xml
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\NHibernate.xml
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\obj\Debug\MyTestLabDalTest.csprojResolveAssemblyReference.cache
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\obj\Debug\MyTestLabDalTest.dll
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\obj\Debug\MyTestLabDalTest.pdb
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\MyTestLabDalModel.dll
+C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\MyTestLabDalModel.pdb
+C:\Users\shah_n.PEROOT\documents\visual studio 2013\Projects\MyTestLab\MyTestLabDalTest\bin\Debug\MyTestLabDalTest.dll.config
