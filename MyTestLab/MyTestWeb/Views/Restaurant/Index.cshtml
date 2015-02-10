@@ -1,21 +1,23 @@
-﻿@model List<MyTestWeb.Models.Item>
-
+﻿@model List<MyTestWeb.Models.BaseItem>
 @{
     ViewBag.Title = "title";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <table>
     <tr><th>Code</th>
-    <th>Name</th>
-    <th>Price</th></tr>
+        <th>Name</th>
+        <th>Price</th></tr>
     @foreach (var item in Model)
-{
-    <tr>
-        <td>@item.ItemCode</td>
-        <td>@Html.ActionLink(@item.ItemName, "Detail", "Restaurant", new { id = @item.ItemCode }, null)</td>
-        <td>@item.Price</td>
-    </tr>
-}
+    {
+        if (item.ItemType == @MyTestWeb.Models.ItemType.Starter)
+        {
+            @Html.Partial("_Starters", item.Item)
+        }
+            else if (item.ItemType == @MyTestWeb.Models.ItemType.Main)
+        {
+            @Html.Partial("_Mains", item.Item)
+        }
+    }
 </table>    
 
 

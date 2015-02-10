@@ -192,8 +192,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\BaseItem.cs" />
     <Compile Include="Models\Item.cs" />
     <Compile Include="Models\ItemDetail.cs" />
+    <Compile Include="Models\ItemType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -307,6 +309,8 @@
     <Content Include="Views\Restaurant\Index.cshtml" />
     <Content Include="Views\Restaurant\Detail.cshtml" />
     <Content Include="Views\Restaurant\Add.cshtml" />
+    <Content Include="Views\Restaurant\_Starters.cshtml" />
+    <Content Include="Views\Restaurant\_Mains.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

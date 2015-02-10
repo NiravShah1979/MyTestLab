@@ -21,6 +21,14 @@
             @Html.EditorFor(model => model.ItemCode)
             @Html.ValidationMessageFor(model => model.ItemCode)
         </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ItemTypes)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.SelectedItemType, Model.ItemTypes)
+            @Html.ValidationMessageFor(model => model.ItemTypes)
+        </div>
 
         <div class="editor-label">
             @Html.LabelFor(model => model.ItemName)
