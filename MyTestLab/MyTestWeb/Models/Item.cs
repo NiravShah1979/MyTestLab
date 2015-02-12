@@ -9,6 +9,7 @@ namespace MyTestWeb.Models
 {
     public class Item 
     {
+         [Display(Name = "Test 123")]
         public string ItemCode { get; set; }
 
         [Required(ErrorMessage = "{0} is required")]

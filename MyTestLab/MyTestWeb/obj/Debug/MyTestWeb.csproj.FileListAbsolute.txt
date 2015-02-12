@@ -85,6 +85,8 @@ C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb
 C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\bin\ru\System.Spatial.resources.dll
 C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\obj\Debug\MyTestWeb.csprojResolveAssemblyReference.cache
 C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\obj\Debug\MyTestWeb.dll
 C:\Users\shah_n.PEROOT\Documents\Visual Studio 2013\Projects\MyTestLab\MyTestWeb\obj\Debug\MyTestWeb.pdb
+C:\Users\shah_n.PEROOT\documents\visual studio 2013\Projects\MyTestLab\MyTestWeb\bin\Kendo.Mvc.dll
+C:\Users\shah_n.PEROOT\documents\visual studio 2013\Projects\MyTestLab\MyTestWeb\bin\Kendo.Mvc.xml
+C:\Users\shah_n.PEROOT\documents\visual studio 2013\Projects\MyTestLab\MyTestWeb\obj\Debug\MyTestWeb.csprojResolveAssemblyReference.cache

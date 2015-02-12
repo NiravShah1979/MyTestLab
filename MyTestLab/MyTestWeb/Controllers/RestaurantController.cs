@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Web.Mvc;
+using Kendo.Mvc.Extensions;
+using Kendo.Mvc.UI;
 using MyTestWeb.Models;
 
 namespace MyTestWeb.Controllers
@@ -38,6 +40,15 @@ namespace MyTestWeb.Controllers
             return View(item);
         }
 
+        public ActionResult StartersGrid([DataSourceRequest]DataSourceRequest request)
+        {
+            return Json(StarterMenuItems().ToDataSourceResult(request));
+        }
+
+        public ActionResult MainsGrid([DataSourceRequest]DataSourceRequest request)
+        {
+            return Json(MainsMenuItems().ToDataSourceResult(request));
+        }
 
         [ValidateInput(true)]
         [ValidateAntiForgeryToken]

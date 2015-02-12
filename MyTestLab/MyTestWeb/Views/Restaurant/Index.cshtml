@@ -4,9 +4,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 <table>
-    <tr><th>Code</th>
+    @*<tr><th>Code</th>
         <th>Name</th>
-        <th>Price</th></tr>
+        <th>Price</th></tr>*@
     @foreach (var item in Model)
     {
         if (item.ItemType == @MyTestWeb.Models.ItemType.Starter)
